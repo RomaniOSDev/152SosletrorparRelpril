@@ -1,0 +1,6 @@
+framework module Pods_152SosletrorparRelpril {
+  umbrella header "Pods-152SosletrorparRelpril-umbrella.h"
+
+  export *
+  module * { export * }
+}
