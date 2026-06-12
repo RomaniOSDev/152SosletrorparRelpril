@@ -8,7 +8,7 @@ workflows:
           XCODE_WORKSPACE: "152SosletrorparRelpril.xcworkspace"
           XCODE_SCHEME: "152SosletrorparRelpril"
           BUNDLE_ID: "com.bug.s0sl3tr0rp3rr3lpr9l"
-          APP_STORE_APP_ID: 6764548395
+          APP_STORE_APP_ID: 6756367614
         xcode: latest
         cocoapods: 1.14.2
       scripts:
